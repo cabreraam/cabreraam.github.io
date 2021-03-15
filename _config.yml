@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Anthony Cabrera"
   avatar           : "amc-profile.png"
   bio              : "I probably can't fix your computer."
   location         : "Saint Louis, MO, USA"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/acabrera3/"
   orcid            : 
   pinterest        :
   soundcloud       :
