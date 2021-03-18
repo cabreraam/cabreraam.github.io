@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Welcome to my website!"
+title: "Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Welcome!
 
 I am a Software Engineer in the [Architectures and Performance 
 Group](https://www.ornl.gov/group/architectures-performance) at 
