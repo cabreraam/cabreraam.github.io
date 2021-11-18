@@ -26,6 +26,8 @@ In general, my research interests include heterogeneous systems, hardware
 accelerators, high level synthesis, high performance computing, and computer
 architecture. 
 
+My current CV as of November 2021 can be found [here](https://cabreraam.github.io/files/cv.pdf)
+
 Contact
 ======
 cabreraam AT ornl DOT gov
