@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Welcome"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -25,9 +24,6 @@ synthesis as a means to architect hardware for the domain of data integration.
 In general, my research interests include heterogeneous systems, hardware
 accelerators, high level synthesis, high performance computing, and computer
 architecture. 
-
-My current CV as of November 2021 can be found
-[here](https://cabreraam.github.io/files/cv.pdf).
 
 Contact
 ======
