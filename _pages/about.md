@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Software Engineer in the [Architectures and Performance 
+I am a Research Scientist in the [Architectures and Performance 
 Group](https://www.ornl.gov/group/architectures-performance) at 
 [Oak Ridge National
 Laboratory](https://www.ornl.gov/) and my research focus is on all things 
