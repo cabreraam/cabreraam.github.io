@@ -11,7 +11,10 @@ I am a Research Scientist in the [Architectures and Performance
 Group](https://www.ornl.gov/group/architectures-performance) at 
 [Oak Ridge National
 Laboratory](https://www.ornl.gov/) and my research focus is on all things 
-heterogeneous computing. 
+heterogeneous computing. While at ORNL, I've contributed to heterogeneous
+hardware solutions for 5G applications, high level synthesis performance
+portability for FPGAs, tightly-integrated GPU-FPGA systems research, and the
+LLVM front-end for Fortran (Flang).
 
 I earned my Ph.D. in Computer Engineering 
 at [Washington University in St. 
