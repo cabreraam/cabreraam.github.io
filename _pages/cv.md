@@ -3,4 +3,4 @@ permalink: /cv/
 title: "CV"
 author_profile: true
 ---
-[CV](https://cabreraam.github.io/files/cv.pdf) as of February 2022. 
+[CV](https://cabreraam.github.io/files/cv.pdf) as of June 2022. 
