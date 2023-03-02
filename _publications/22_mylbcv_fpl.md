@@ -1,5 +1,5 @@
 ---
-title: "Challenges Designing for FPGAs Using High-Level Synthesis"
+title: "Ultra Low Latency Machine Learning for Scientific Edge Applications"
 collection: publications
 permalink: /publication/22_mylbcv_fpl.md
 date: 2022-04-02
