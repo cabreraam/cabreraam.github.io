@@ -28,8 +28,8 @@ domain specific computing. Specifically, I leveraged FPGAs using high level
 synthesis as a means to architect hardware for the domain of data integration.
 
 In general, my research interests include heterogeneous systems, hardware
-accelerators, compilers, high level synthesis, high performance computing, and computer
-architecture.
+accelerators, compilers, high level synthesis, high performance computing, computer
+architecture, and quantum computing.
 
 Contact
 ======
