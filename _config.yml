@@ -84,10 +84,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Anthony Cabrera (he/him)"
+  name             : "Anthony Cabrera"
   avatar           : "amc-profile.png"
   bio              : "I probably can't fix your computer."
-  pronouns         : "he/him"
+  pronouns         : "(he/him)"
   location         : "Saint Louis, MO, USA"
   employer         :
   pubmed           :
