@@ -3,7 +3,7 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# `jekyll serve -l -H localhost`. If you change this file, please restart the
 # server process.
 
 # Basic Site Settings
@@ -84,13 +84,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Anthony Cabrera"
+  name             : "Anthony Cabrera (he/him)"
   avatar           : "amc-profile.png"
   bio              : "I probably can't fix your computer."
   pronouns         : "he/him"
   location         : "Saint Louis, MO, USA"
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=gf_baX4AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -110,13 +110,13 @@ author:
   lastfm           :
   linkedin         : "acabrera3"
   kaggle           : # "https://www.kaggle.com/yourprofile"
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
@@ -156,7 +156,7 @@ exclude:
   - vendor
   - markdown_generator
   - _posts
-  - _portfolio 
+  - _portfolio
 keep_files:
   - .git
   - .svn
