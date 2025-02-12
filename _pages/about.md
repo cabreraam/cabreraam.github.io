@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Quantum Software Engineer forcusing on compilers at
+I am a Quantum Software Engineer focusing on compilers at
 [Quantum Circuits, Inc.](https://quantumcircuits.com/).
-My focus is primarily on back-end compiler development targeting Quantum
+Specifically, I am focused on back-end compiler development targeting Quantum
 Circuits QPUs.
 Previously, I was a Research Scientist in the
 [Architectures and Performance Group](https://www.ornl.gov/group/architectures-performance)
