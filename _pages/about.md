@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Quantum Software Engineer focusing on compilers at
-[Quantum Circuits, Inc.](https://quantumcircuits.com/).
-Specifically, I am focused on back-end compiler development targeting Quantum
-Circuits QPUs.
+I am a Senior Quantum Software Engineer focusing on compilers at
+[D-Wave](https://www.dwavequantum.com/) (formerly
+[Quantum Circuits, Inc.](https://quantumcircuits.com/)).
+Specifically, I am focused on back-end compiler development targeting superconducting
+QPUs.
 Previously, I was a Research Scientist in the
 [Architectures and Performance Group](https://www.ornl.gov/group/architectures-performance)
 at [Oak Ridge National Laboratory](https://www.ornl.gov/), and I held a Visiting
