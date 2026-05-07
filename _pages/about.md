@@ -7,12 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Quantum Software Engineer focusing on compilers at
+Hello!
+I am a Senior Software Engineer working on
+[quantum computing at NVIDIA](https://www.nvidia.com/en-us/solutions/quantum-computing/).
+Previously, I was a Senior Quantum Software Engineer focusing on compilers at
 [D-Wave](https://www.dwavequantum.com/) (formerly
-[Quantum Circuits, Inc.](https://quantumcircuits.com/)).
-Specifically, I am focused on back-end compiler development targeting superconducting
-QPUs.
-Previously, I was a Research Scientist in the
+[Quantum Circuits, Inc.](https://quantumcircuits.com/)) working on back-end
+compiler development targeting superconducting QPUs.
+Before that, I was a Research Scientist in the
 [Architectures and Performance Group](https://www.ornl.gov/group/architectures-performance)
 at [Oak Ridge National Laboratory](https://www.ornl.gov/), and I held a Visiting
 Research Scientist appointment in the CSE department at
@@ -36,7 +38,3 @@ architect hardware for the domain of data integration.
 In general, my research interests include heterogeneous systems, hardware
 accelerators, compilers, high level synthesis, high performance computing,
 computer architecture, and quantum computing.
-
-Contact
-======
-cabreraam AT ieee DOT org
